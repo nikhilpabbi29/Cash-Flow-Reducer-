@@ -1,7 +1,3 @@
-/**
- * Created by aarnavjindal on 30/03/20.
- */
-
 
 class BinaryHeap {
 
